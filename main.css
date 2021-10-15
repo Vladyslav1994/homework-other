@@ -1,0 +1,13 @@
+#mycountry {
+    text-align: center;
+    background: #ffea00;
+    margin: 10px 600px;
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    border: 5px solid #002bff;
+    box-shadow: 0 0 20px #ffea00;
+}
+.photo{
+    width: 1503px;
+}
